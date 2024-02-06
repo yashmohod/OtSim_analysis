@@ -1,0 +1,16 @@
+Warning: Changing the beam power in this or previous versions
+of OTT not recomended, see documentation for more info
+> In ott.Bsc.set.power (line 1135)
+In ott_beam (line 26)
+import 0 complete
+import 1 complete
+import 2 complete
+import 3 complete
+import 4 complete
+import 5 complete
+All imports Complete!
+11033.94586277008
+Traceback (most recent call last):
+  File "data_resize.py", line 12, in <module>
+    main(float(sys.argv[1:][0]))
+IndexError: list index out of range
