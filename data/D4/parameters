@@ -1,8 +1,0 @@
-# beam parameters
-
-# particale parameters
-tempFactor= 0
-
-# data resizing (keep it between 0.1 to 1)
-resizeFactor=0.8
-

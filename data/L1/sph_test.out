@@ -1,5 +1,0 @@
-Warning: Changing the beam power in this or previous versions
-of OTT not recomended, see documentation for more info
-> In ott.Bsc.set.power (line 1135)
-In ott_beam (line 26)
-All fine till here

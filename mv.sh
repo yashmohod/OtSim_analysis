@@ -1,1 +1,1 @@
-scp -r  ymohod@login.expanse.sdsc.edu:/expanse/lustre/projects/ith101/ymohod/$1  C:/Users/mohod/Development/ot_sim/data/
+scp -r  ymohod@login.expanse.sdsc.edu:/expanse/lustre/projects/ith101/ymohod/*  C:/Users/mohod/Development/OtSim_analysis/data
